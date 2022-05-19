@@ -1,4 +1,4 @@
-# reetcode for leetcode
+#leetcode Java solutions
 
 
 | #   | Title                                                                                                       | Solution                                         | Difficulty |
