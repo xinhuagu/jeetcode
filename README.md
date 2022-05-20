@@ -15,3 +15,4 @@
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                      | [Java](./src/contains-duplicate.java)            | Easy       |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                | [Java](./src/binary-search.java)            | Easy       |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                        | [Java](./src/first-bad-version.java)            | Easy       |
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                                        | [Java](./src/squares-of-a-sorted-array.java)            | Easy       |
