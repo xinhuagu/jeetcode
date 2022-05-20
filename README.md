@@ -12,8 +12,8 @@
 | 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                           | [Java](./src/palindrome-number.java)            | Easy       |
 | 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                 | [Java](./src/search-insert-position.java)             | Easy       |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                     | [Java](./src/longest-consecutive-sequence.java)            | Medium     |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                         | [Java](./src/contains-duplicate.java)            | Easy       |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                    | [Java](./src/rotate-array.java)            | Medium     |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                         | [Java](./src/contains-duplicate.java)            | Easy       |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                   | [Java](./src/binary-search.java)            | Easy       |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                           | [Java](./src/first-bad-version.java)            | Easy       |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                           | [Java](./src/squares-of-a-sorted-array.java)            | Easy       |
