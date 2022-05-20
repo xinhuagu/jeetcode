@@ -13,3 +13,4 @@
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                    | [Java](./src/longest-consecutive-sequence.java)             | Medium     |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                | [Java](./src/contains-duplicate.java)             | Easy       |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                | [Java](./src/binary-search.java)             | Easy       |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                                | [Java](./src/first-bad-version.java)             | Easy       |
