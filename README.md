@@ -13,6 +13,7 @@
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                         | [Java](./src/valid-parentheses.java)            | Easy       |
 | 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                               | [Java](./src/search-insert-position.java)             | Easy       |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                   | [Java](./src/longest-consecutive-sequence.java)            | Medium     |
+| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                                   | [Java](./src/two-sum-ii-input-array-is-sorted.java)            | Medium     |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                   | [Java](./src/rotate-array.java)            | Medium     |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                       | [Java](./src/contains-duplicate.java)            | Easy       |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                         | [Java](./src/first-bad-version.java)            | Easy       |
