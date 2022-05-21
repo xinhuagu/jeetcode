@@ -16,6 +16,7 @@
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                   | [Java](./src/rotate-array.java)            | Medium     |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                       | [Java](./src/contains-duplicate.java)            | Easy       |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                         | [Java](./src/first-bad-version.java)            | Easy       |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                         | [Java](./src/move-zeroes.java)            | Easy       |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/)                                                         | [Java](./src/coin-change.java)            | Medium     |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                 | [Java](./src/binary-search.java)            | Easy       |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                         | [Java](./src/squares-of-a-sorted-array.java)            | Easy       |
