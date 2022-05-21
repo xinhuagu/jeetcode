@@ -10,6 +10,7 @@
 | 6   | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)                                                         | [Java](./src/Zigzag-Conversion.java)            | Medium     |
 | 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                             | [Java](./src/Reverse-Integer.java)              | Medium     |
 | 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                         | [Java](./src/palindrome-number.java)            | Easy       |
+| 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                         | [Java](./src/longest-common-prefix.java)            | Easy       |
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                         | [Java](./src/valid-parentheses.java)            | Easy       |
 | 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                               | [Java](./src/search-insert-position.java)             | Easy       |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                   | [Java](./src/longest-consecutive-sequence.java)            | Medium     |
