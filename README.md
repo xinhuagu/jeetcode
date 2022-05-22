@@ -21,7 +21,7 @@
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                          | [Java](./src/first-bad-version.java)                | Easy       |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                      | [Java](./src/move-zeroes.java)                      | Easy       |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/)                                                                      | [Java](./src/coin-change.java)                      | Medium     |
-| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                                                                             | [Java](./src/reverse-string.java)                      | Medium     |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                                                                             | [Java](./src/reverse-string.java)                      | Easy       |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                                                | [Java :see_no_evil:](./src/palindromic-substrings.java)          | Medium     |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                  | [Java](./src/binary-search.java)                    | Easy       |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                          | [Java](./src/squares-of-a-sorted-array.java)        | Easy       |
