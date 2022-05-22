@@ -1,3 +1,9 @@
+/**
+ *
+ * Runtime: 0 ms, faster than 100.00% of Java online submissions for Plus One.
+ * Memory Usage: 42.5 MB, less than 49.44% of Java online submissions for Plus One.
+ */
+
 class Solution {
   public int[] plusOne(int[] digits) {
     var carry = 0;
