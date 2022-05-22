@@ -13,6 +13,7 @@
 | 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                          | [Java](./src/palindrome-number.java)                    | Easy       |
 | 14  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                  | [Java](./src/longest-common-prefix.java)                | Easy       |
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                          | [Java](./src/valid-parentheses.java)                    | Easy       |
+| 23  | [ Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                          | [Java](./src/merge-k-sorted-lists.java)                    | Easy       |
 | 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                | [Java](./src/search-insert-position.java)               | Easy       |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                    | [Java](./src/longest-consecutive-sequence.java)         | Medium     |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                          | [Java](./src/two-sum-ii-input-array-is-sorted.java)     | Medium     |
