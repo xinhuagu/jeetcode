@@ -15,7 +15,7 @@
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                          | [Java](./src/valid-parentheses.java)                           | Easy       |
 | 23  | [ Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                          | [Java :see_no_evil:](./src/merge-k-sorted-lists.java)          | Hard       |
 | 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                | [Java](./src/search-insert-position.java)                      | Easy       |
-| 41  | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)                                                | [Java](./src/first-missing-positive.java)                      | Hard       |
+| 41  | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)                                                | [Java :see_no_evil:](./src/first-missing-positive.java)                     | Hard       |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                    | [Java](./src/longest-consecutive-sequence.java)                | Medium     |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                          | [Java](./src/two-sum-ii-input-array-is-sorted.java)            | Medium     |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                    | [Java](./src/rotate-array.java)                                | Medium     |
