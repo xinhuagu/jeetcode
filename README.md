@@ -19,6 +19,7 @@
 | 41   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)                                                | [Java :see_no_evil:](./src/first-missing-positive.java)        | Hard       |
 | 66   | [Plus One](https://leetcode.com/problems/plus-one/)                                                | [Java](./src/plus-one.java)                                    | Easy       |
 | 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                    | [Java](./src/longest-consecutive-sequence.java)                | Medium     |
+| 136  | [Single Number](https://leetcode.com/problems/single-number/)                                    | [Java](./src/single-number.java)                | Medium     |
 | 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                          | [Java](./src/two-sum-ii-input-array-is-sorted.java)            | Medium     |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                    | [Java](./src/rotate-array.java)                                | Medium     |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                        | [Java](./src/contains-duplicate.java)                          | Easy       |
