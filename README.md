@@ -1,6 +1,6 @@
 # leetcode Java solutions (Just for fun) 
 
-### IMHO , for SW Engineering , Work Ethic and Team Collaboration is more important. The talent to solve Leetcode does not mean anything. I like to think of it as a place to solve puzzle games adn learn some algorithms at the same time.
+### IMHO , for SW Engineering , Work Ethic and Team Collaboration is more important. The talent to solve Leetcode does not mean anything. I like to think of it as a place to solve puzzle games and learn some algorithms at the same time.
 
 
 
