@@ -1,6 +1,6 @@
 # leetcode Java solutions (Just for fun) 
 
-### IMHO , for SW Engineering , Work Ethic and Team Collaboration is more important. The ability to solve Leetcode does not mean anything, it can be learned and improved by practice. I prefer to think of leetcode just as a place to solve puzzle games , learn or practice some algorithms at the same time.
+###  The ability to solve Leetcode  can be learned and improved by practice. IMHO, for SW Engineering , Work Ethic and Team Collaboration is more important. The leetcode is a good place to solve puzzle games , learn or practice some algorithms at the same time.
 
 
 
