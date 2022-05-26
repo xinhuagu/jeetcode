@@ -1,6 +1,6 @@
-# leetcode Java solutions (Just for fun) 
+# leetcode Java solutions 
 
-###  The ability to solve Leetcode  can be learned and improved by practice. IMHO, for SW Engineering , Work Ethic and Team Collaboration is more important. The leetcode is a good place to solve puzzle games , learn or practice some algorithms at the same time.
+###  The leetcode is a great place to solve puzzle and learn/practice some algorithms at the same time. Have fun!
 
 
 
@@ -23,6 +23,7 @@
 | 41   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)                                                | [Java :see_no_evil:](./src/first-missing-positive.java)         | Hard       |
 | 61   | [Rotate List](https://leetcode.com/problems/rotate-list/)                                                | [Java :see_no_evil:](./src/rotate-list.java)                    | Medium     |
 | 66   | [Plus One](https://leetcode.com/problems/plus-one/)                                                | [Java](./src/plus-one.java)                                     | Easy       |
+| 110  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                                | [Java](./src/balanced-binary-tree.java)                                     | Easy       |
 | 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                                    | [Java](./src/longest-consecutive-sequence.java)                 | Medium     |
 | 136  | [Single Number](https://leetcode.com/problems/single-number/)                                    | [Java :see_no_evil:](./src/single-number.java)                  | Medium     |
 | 166  | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)                                                | [Java :see_no_evil:](./src/populating-next-right-pointers-in-each-node.java) | Medium     |
