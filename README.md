@@ -1,4 +1,4 @@
-# leetcode Java solutions
+# leetcode Java solutions - Just For Fun
 
 :see_no_evil: Better solution needed
 
