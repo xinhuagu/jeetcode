@@ -44,4 +44,5 @@
 | 704  | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                   | [Java](./src/binary-search.java)                                | Easy       |
 | 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                           | [Java](./src/middle-of-the-linked-list.java)                    | Easy       |
 | 977  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                                           | [Java](./src/squares-of-a-sorted-array.java)                    | Easy       |
+| 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)                                           | [Java](./src/squares-of-a-sorted-array.java)                    | Easy       |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)                                 | [Java](./src/percentage-of-letter-in-string.java)               | Easy       |
