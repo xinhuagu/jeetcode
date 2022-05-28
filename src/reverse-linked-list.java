@@ -19,3 +19,23 @@ class Solution {
     return p;
   }
 }
+
+/**
+ *
+ * O(n) space O(1)
+ */
+
+class Solution {
+  public ListNode reverseList(ListNode head) {
+    ListNode prev = null;
+    var curr = head;
+    while(curr != null){
+      var temp = curr.next;
+      curr.next = prev;
+      prev = curr;
+      curr = temp;
+    }
+    return prev;
+
+  }
+}
