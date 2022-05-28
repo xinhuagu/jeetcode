@@ -1,14 +1,12 @@
 class Solution {
   public int missingNumber(int[] nums) {
     var n = nums.length;
-    Arrays.sort(nums);
-
+    var sum = ((n+1)*n) /2;
+    var tmp = 0;
     for( int i = 0; i <n; i++){
-      if( i != nums[i]){
-        return i;
-      }
+      tmp = tmp + nums[i];
     }
 
-    return nums[n-1]+1;
+    return sum-tmp;
   }
 }
