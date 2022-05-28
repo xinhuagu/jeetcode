@@ -18,6 +18,7 @@
 | 14   | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                   | [Java](./src/longest-common-prefix.java)                        | Easy       |
 | 19   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                             | [Java](./src/remove-nth-node-from-end-of-list.java)             | Medium     |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | [Java](./src/valid-parentheses.java)                            | Easy       |
+| 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                           | [Java](./src/merge-two-sorted-lists.java)                            | Easy       |
 | 23   | [ Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                    | [Java :see_no_evil:](./src/merge-k-sorted-lists.java)           | Hard       |
 | 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                 | [Java](./src/search-insert-position.java)                       | Easy       |
 | 41   | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)                                                 | [Java :see_no_evil:](./src/first-missing-positive.java)         | Hard       |
