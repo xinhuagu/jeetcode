@@ -27,3 +27,27 @@ class Solution {
 
   }
 }
+
+
+/**
+ *  better and shorter
+ */
+class Solution {
+  public ListNode deleteDuplicates(ListNode head) {
+    if( head == null ) return null;
+    if( head.next == null ) return head;
+    var p = head;
+
+    while(p!=null && p.next != null){
+      if( p.val == p.next.val) {
+        p.next = p.next.next;
+      }else{
+        p = p.next;
+      }
+    }
+
+
+    return head;
+
+  }
+}
