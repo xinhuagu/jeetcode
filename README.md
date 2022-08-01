@@ -1,8 +1,5 @@
 # leetcode Java solutions 
 
-###  The leetcode is a great place to solve puzzle and learn/practice some algorithms at the same time. Have fun!
-
-
 
 :see_no_evil: Better solution needed
 
